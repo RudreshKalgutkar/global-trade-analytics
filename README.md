@@ -189,7 +189,6 @@ global-trade-analytics/
 
 ### Dashboard Analysis
 
-![Dashboard Overview](./images/dashboard_overview.png)
 ![Dashboard Analysis Part 1](./images/dashboard_analysis_part1.PNG)
 ![Dashboard Analysis Part 2](./images/dashboard_analysis_part2.PNG)
 
