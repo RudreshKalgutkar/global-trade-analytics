@@ -175,12 +175,23 @@ global-trade-analytics/
 │   
 │
 └── images/
-    ├── dashboard_overview.png (![Dashboard Overview](images/dashboard_overview.png))
-    └── dashboard_analysis_analysispart1.png (![Dashboard Analysis](images/dashboard_analysis_part1.png))
-    └── dashboard_analysis_analysispart2.png (![Dashboard Analysis](images/dashboard_analysis_part2.png))
+    ├── dashboard_overview.png 
+    └── dashboard_analysis_part1.png 
+    └── dashboard_analysis_part2.png
 
 
 ```
+## 📊 Dashboard Preview
+
+### Dashboard Overview
+
+![Dashboard Overview](./images/dashboard_overview.png)
+
+### Dashboard Analysis
+
+![Dashboard Overview](./images/dashboard_overview.png)
+![Dashboard Analysis Part 1](./images/dashboard_analysis_part1.png)
+![Dashboard Analysis Part 2](./images/dashboard_analysis_part2.png)
 
 The repository contains the completed Excel workbook, the original source/supporting datasets used by the project, and dashboard screenshots for quick visual reference.
 
