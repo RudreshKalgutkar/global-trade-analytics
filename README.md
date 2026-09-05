@@ -175,9 +175,9 @@ global-trade-analytics/
 │   
 │
 └── images/
-    ├── dashboard_overview.png
-    └── dashboard_analysis_analysispart1.png
-    └── dashboard_analysis_analysispart2.png
+    ├── dashboard_overview.png (![Dashboard Overview](images/dashboard_overview.png))
+    └── dashboard_analysis_analysispart1.png (![Dashboard Analysis](images/dashboard_analysis_part1.png))
+    └── dashboard_analysis_analysispart2.png (![Dashboard Analysis](images/dashboard_analysis_part2.png))
 
 
 ```
